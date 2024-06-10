@@ -1,4 +1,7 @@
 # T2T_cookie
+
+### Description
+
 Use AI to detect negative emotion from user input text, offer cookie delivery action, and deliver cookie, interacting with Tier2AI and Tier2Assist.
 A website created using PHP is provided as an example implementation of a form taking user input and interacting with the DoorDash API.
 
